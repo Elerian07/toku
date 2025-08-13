@@ -29,13 +29,20 @@ Common Phrases
 
 Screen	
 # Numbers	
-<img width="80" height="118" alt="Screenshot 2025-08-12 213655" src="https://github.com/user-attachments/assets/8b1da7ee-0526-45ef-bebf-63ea9580c7d0" />
 
-# Colors
+<img width="80" height="118" alt="Screenshot 2025-08-14 005931" src="https://github.com/user-attachments/assets/cdadc4d7-0355-4727-a23a-0c696e1cd5e8" />
 
 # Family Members	
 
+<img width="80" height="118" alt="Screenshot 2025-08-14 005858" src="https://github.com/user-attachments/assets/1ca9038e-206a-49cf-b2fe-351c34af84ca" />
+
+# Colors
+
+<img width="80" height="118" alt="Screenshot 2025-08-14 005827" src="https://github.com/user-attachments/assets/5c7d91cf-7e11-4cb9-b55a-a443a3045091" />
+
 # Phrases
+
+<img width="80" height="118" alt="Screenshot 2025-08-14 005749" src="https://github.com/user-attachments/assets/ca0ff84d-b823-4d50-9c51-29efb87b2d6f" />
 
 # 🎧 Audio Example
 When you tap on a vocabulary item, Toku plays the correct Japanese pronunciation.
@@ -95,3 +102,5 @@ If you’d like to improve Toku, feel free to fork the repo, make changes, and s
 Audio pronunciations from native Japanese speakers.
 
 Flutter & Dart community for packages and support.
+
+
