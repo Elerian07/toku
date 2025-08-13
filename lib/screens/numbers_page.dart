@@ -74,7 +74,7 @@ class NumbersPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Numbers", style: TextStyle(color: Colors.white)),
-        backgroundColor: Color(0xff46322B),
+        backgroundColor: Color(0xffEF9235),
       ),
       body: ListView.builder(
         itemCount: numbers.length,

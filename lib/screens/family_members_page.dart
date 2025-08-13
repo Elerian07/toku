@@ -74,7 +74,7 @@ class FamilyMembersPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Family Members", style: TextStyle(color: Colors.white)),
-        backgroundColor: Color(0xff46322B),
+        backgroundColor: Color(0xff558B37),
       ),
       body: ListView.builder(
         itemCount: family.length,
